@@ -1,0 +1,5 @@
+{
+  "name": "Interactive LinkedList Visualizer",
+  "description": "A web application to visualize LinkedList operations graphically. Users can add, remove, and find nodes to better understand how this fundamental data structure works, aiding in learning for technical interviews and LeetCode problems.",
+  "requestFramePermissions": []
+}
